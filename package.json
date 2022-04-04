@@ -4,9 +4,8 @@
   "description": "",
   "main": "first.js",
   "dependencies": {
-    "algosdk": "^1.12.0"
+    "algosdk": "^1.15.0"
   },
-  "devDependencies": {},
   "scripts": {
     "test": "echo \"Error: no test  specified\" && exit 1"
   },
